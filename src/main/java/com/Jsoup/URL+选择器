@@ -1,0 +1,29 @@
+//String url="http://finance.ccb.com/cn/finance/product.html";//中国建设银行
+               //String url="http://ewealth.abchina.com/fs/filter/";//农行
+               //String url="https://mybank.icbc.com.cn/icbc/newperbank/perbank3/frame/frame_index.jsp#";//工行
+               //String url="http://www.bankcomm.com/BankCommSite/shtml/jyjr/cn/7226/7266/7281/7282/list.shtml?channelId=7226";//交通银行
+String url="http://www.psbc.com/cn/investment/transactions/index.html";//中国邮政
+
+               //#list1 > table > tbody > tr:nth-child(2) > td.list_title > div > div > a
+                              //#financeFilter > tbody:nth-child(2) > tr:nth-child(1) > td:nth-child(2)
+                              //交通银行#\30 191100421\20 \20 \20 \20 \20 > div.left-box
+                              //body > div > div.main > div > div > ul > li:nth-child(1)中国银行
+
+
+
+               //                       .select(".lc-item-list")
+               //                       .select(".mark")
+               //                       .select(".left-box")
+               //                       .select(".ellipsis")
+
+
+                              /*String title = elements.text();
+                              String link = elements.select("a").attr("href").trim();
+                              System.out.println("名称："+title+
+                                      "\n"+"链接："+link);*/
+
+ /*if (elements.size()>0){
+                   System.out.println("抓到了！！！");
+               }else {
+                   System.out.println("哎呀，手滑了，没抓到..*_*..");
+               }*/
